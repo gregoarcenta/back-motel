@@ -8,6 +8,7 @@ Al clonar el proyecto se tiene que crear un archivo .env en la raiz del proyecto
 
 Ejemplo:  
 DB_NAME=nombre_de_la_base_de_datos
+
 DB_HOST=localhost  
 DB_USER=root  
 DB_PASS=su_contraseña
