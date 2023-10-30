@@ -2,7 +2,7 @@
 
 El proyecto esta contruido en node Js, utiliza el ORM sequelize para el manejo y conexión con la base de datos, el cual se usa MySQL
 
-## Configuración del archivo .evn
+## Configuración del archivo .env
 
 Al clonar el proyecto se tiene que crear un archivo .env en la raiz del proyecto el cual contendra las variables de entorno para la conexion a la base de datos. Esta contendra el nombre de la base de datos, usuario y contraseña para poder establecer la conexión con ella 
 
